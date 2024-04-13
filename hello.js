@@ -4,7 +4,17 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log('Im Jyothi Bhavani.')
+console.log(1)
+console.log(2)
+console.log(1+2);
+console.log("Hi");
+console.log("This is Jyothi");
+console.log("HI", "World", "code");
+console.log('"Double quotes"');
+console.log('mom'+'dad');
+
+
 
 /*  
 Next, PLAY! 
